@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Overview
-📖 **Read the Engineering Deep-Dive:** [Why I Built 150+ In-Browser Privacy Tools on DEV.to](PASTE_YOUR_DEVTO_ARTICLE_LINK_HERE)
+📖 **Read the Engineering Deep-Dive:** [Why I Built 150+ In-Browser Privacy Tools on DEV.to](> **Engineering Deep-Dive:** [Read on DEV Community](https://dev.to/mubeen_haidar_0b8d4188810/why-i-built-150-in-browser-privacy-tools-0-cloud-uploads-496o))
 
 **ToolkitZen** is an open, privacy-first web utility suite providing over 150+ high-performance tools for developers, designers, students, and digital creators. 
 
